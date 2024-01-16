@@ -1,3 +1,3 @@
-@xp-plus-------------------------
-coding: python, C++, (C+++++ PRO)
-minecraft------------------------
+server raider/nuker for discord
+nelf0 & xp-plus
+coded in python
